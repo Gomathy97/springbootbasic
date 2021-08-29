@@ -1,0 +1,10 @@
+com/gomathy/learningspring/data/repository/ReservationRepository.class
+com/gomathy/learningspring/LearningSpringApplication$ReservationController.class
+com/gomathy/learningspring/data/entity/Guest.class
+com/gomathy/learningspring/data/repository/GuestRepository.class
+com/gomathy/learningspring/LearningSpringApplication$RoomController.class
+com/gomathy/learningspring/data/entity/Reservation.class
+com/gomathy/learningspring/LearningSpringApplication$GuestController.class
+com/gomathy/learningspring/data/repository/RoomRepository.class
+com/gomathy/learningspring/LearningSpringApplication.class
+com/gomathy/learningspring/data/entity/Room.class
